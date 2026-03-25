@@ -3,6 +3,7 @@
 //DESCRIPTION jabkit - mange BibTeX files using JabRef
 
 //JAVA 26+
+//DEPS org.openjfx:jdk-jsobject:26
 //RUNTIME_OPTIONS --enable-native-access=ALL-UNNAMED
 
 // raw is for https://github.com/unicode-org/icu/pull/2127
